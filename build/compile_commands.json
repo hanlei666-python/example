@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/C++/safe_trans/build",
+  "command": "D:\\qt\\Tools\\mingw810_64\\bin\\gcc.exe  @CMakeFiles/main.c.dir/includes_C.rsp -g -o CMakeFiles\\main.c.dir\\main.c.obj -c C:\\Users\\Administrator\\Desktop\\C++\\safe_trans\\main.c",
+  "file": "C:/Users/Administrator/Desktop/C++/safe_trans/main.c"
+}
+]
